@@ -1,0 +1,398 @@
+character = {
+    size = { x = 475 y = 380 }
+
+    entity = {
+        orientation = center_down
+        position = { x = 50 y = -20 }
+        scale = 24
+    }
+}
+
+portraits = {
+    portrait1010 = { texturefile = "gfx/models/portraits/neko/1010.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1011 = { texturefile = "gfx/models/portraits/neko/1011.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1012 = { texturefile = "gfx/models/portraits/neko/1012.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1013 = { texturefile = "gfx/models/portraits/neko/1013.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1020 = { texturefile = "gfx/models/portraits/neko/1020.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1021 = { texturefile = "gfx/models/portraits/neko/1021.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1022 = { texturefile = "gfx/models/portraits/neko/1022.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1023 = { texturefile = "gfx/models/portraits/neko/1023.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1030 = { texturefile = "gfx/models/portraits/neko/1030.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1031 = { texturefile = "gfx/models/portraits/neko/1031.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1032 = { texturefile = "gfx/models/portraits/neko/1032.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1033 = { texturefile = "gfx/models/portraits/neko/1033.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1040 = { texturefile = "gfx/models/portraits/neko/1040.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1050 = { texturefile = "gfx/models/portraits/neko/1050.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1051 = { texturefile = "gfx/models/portraits/neko/1051.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1052 = { texturefile = "gfx/models/portraits/neko/1052.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1060 = { texturefile = "gfx/models/portraits/neko/1060.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1061 = { texturefile = "gfx/models/portraits/neko/1061.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1062 = { texturefile = "gfx/models/portraits/neko/1062.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1063 = { texturefile = "gfx/models/portraits/neko/1063.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1070 = { texturefile = "gfx/models/portraits/neko/1070.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1071 = { texturefile = "gfx/models/portraits/neko/1071.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1072 = { texturefile = "gfx/models/portraits/neko/1072.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1073 = { texturefile = "gfx/models/portraits/neko/1073.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1074 = { texturefile = "gfx/models/portraits/neko/1074.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1075 = { texturefile = "gfx/models/portraits/neko/1075.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1076 = { texturefile = "gfx/models/portraits/neko/1076.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1077 = { texturefile = "gfx/models/portraits/neko/1077.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1080 = { texturefile = "gfx/models/portraits/neko/1080.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1081 = { texturefile = "gfx/models/portraits/neko/1081.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1090 = { texturefile = "gfx/models/portraits/neko/1090.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1100 = { texturefile = "gfx/models/portraits/neko/1100.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1110 = { texturefile = "gfx/models/portraits/neko/1110.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1120 = { texturefile = "gfx/models/portraits/neko/1120.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1130 = { texturefile = "gfx/models/portraits/neko/1130.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1140 = { texturefile = "gfx/models/portraits/neko/1140.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1150 = { texturefile = "gfx/models/portraits/neko/1150.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1160 = { texturefile = "gfx/models/portraits/neko/1160.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1161 = { texturefile = "gfx/models/portraits/neko/1161.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1162 = { texturefile = "gfx/models/portraits/neko/1162.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1163 = { texturefile = "gfx/models/portraits/neko/1163.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+    portrait1164 = { texturefile = "gfx/models/portraits/neko/1164.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+}
+
+portrait_groups = {
+    nekorobo = {
+        default = portrait1090
+        game_setup = {
+            add = {
+                portraits = {
+                    portrait1010
+                    portrait1011
+                    portrait1012
+                    portrait1013
+
+                    portrait1020
+                    portrait1021
+                    portrait1022
+                    portrait1023
+
+                    portrait1030
+                    portrait1031
+                    portrait1032
+                    portrait1033
+
+                    portrait1040
+
+                    portrait1050
+                    portrait1051
+                    portrait1052
+
+                    portrait1060
+                    portrait1061
+                    portrait1062
+                    portrait1063
+
+                    portrait1070
+                    portrait1071
+                    portrait1072
+                    portrait1073
+                    portrait1074
+                    portrait1075
+                    portrait1076
+                    portrait1077
+
+                    portrait1080
+                    portrait1081
+
+                    portrait1090
+
+                    portrait1100
+
+                    portrait1110
+
+                    portrait1120
+
+                    portrait1130
+
+                    portrait1140
+
+                    portrait1150
+
+                    portrait1161
+                    portrait1162
+                    portrait1163
+                    portrait1164
+                }
+            }
+
+        }
+
+        #species scope
+        species = {
+            #generic portrait for a species
+            add = {
+                portraits = {
+                    portrait1010
+                    portrait1011
+                    portrait1012
+                    portrait1013
+
+                    portrait1020
+                    portrait1021
+                    portrait1022
+                    portrait1023
+
+                    portrait1030
+                    portrait1031
+                    portrait1032
+                    portrait1033
+
+                    portrait1040
+
+                    portrait1050
+                    portrait1051
+                    portrait1052
+
+                    portrait1060
+                    portrait1061
+                    portrait1062
+                    portrait1063
+
+                    portrait1070
+                    portrait1071
+                    portrait1072
+                    portrait1073
+                    portrait1074
+                    portrait1075
+                    portrait1076
+                    portrait1077
+
+                    portrait1080
+                    portrait1081
+
+                    portrait1090
+
+                    portrait1100
+
+                    portrait1110
+
+                    portrait1120
+
+                    portrait1130
+
+                    portrait1140
+
+                    portrait1150
+
+                    portrait1161
+                    portrait1162
+                    portrait1163
+                    portrait1164
+                }
+            }
+
+        }
+        #pop scope
+        pop = {
+            #for a specific pop
+            add = {
+                portraits = {
+                    portrait1010
+                    portrait1011
+                    portrait1012
+                    portrait1013
+
+                    portrait1020
+                    portrait1021
+                    portrait1022
+                    portrait1023
+
+                    portrait1030
+                    portrait1031
+                    portrait1032
+                    portrait1033
+
+                    portrait1040
+
+                    portrait1050
+                    portrait1051
+                    portrait1052
+
+                    portrait1060
+                    portrait1061
+                    portrait1062
+                    portrait1063
+
+                    portrait1070
+                    portrait1071
+                    portrait1072
+                    portrait1073
+                    portrait1074
+                    portrait1075
+                    portrait1076
+                    portrait1077
+
+                    portrait1080
+                    portrait1081
+
+                    portrait1090
+
+                    portrait1100
+
+                    portrait1110
+
+                    portrait1120
+
+                    portrait1130
+
+                    portrait1140
+
+                    portrait1150
+
+                    portrait1161
+                    portrait1162
+                    portrait1163
+                    portrait1164
+                }
+            }
+
+        }
+        #leader scope
+        leader = {
+            #scientists, generals, admirals, governor
+            add = {
+                portraits = {
+                    portrait1010
+                    portrait1011
+                    portrait1012
+                    portrait1013
+
+                    portrait1020
+                    portrait1021
+                    portrait1022
+                    portrait1023
+
+                    portrait1030
+                    portrait1031
+                    portrait1032
+                    portrait1033
+
+                    portrait1040
+
+                    portrait1050
+                    portrait1051
+                    portrait1052
+
+                    portrait1060
+                    portrait1061
+                    portrait1062
+                    portrait1063
+
+                    portrait1070
+                    portrait1071
+                    portrait1072
+                    portrait1073
+                    portrait1074
+                    portrait1075
+                    portrait1076
+                    portrait1077
+
+                    portrait1080
+                    portrait1081
+
+                    portrait1090
+
+                    portrait1100
+
+                    portrait1110
+
+                    portrait1120
+
+                    portrait1130
+
+                    portrait1140
+
+                    portrait1150
+
+                    portrait1161
+                    portrait1162
+                    portrait1163
+                    portrait1164
+                }
+            }
+
+        }
+        #leader scope
+        ruler = {
+            add = {
+                portraits = {
+                    portrait1010
+                    portrait1011
+                    portrait1012
+                    portrait1013
+
+                    portrait1020
+                    portrait1021
+                    portrait1022
+                    portrait1023
+
+                    portrait1030
+                    portrait1031
+                    portrait1032
+                    portrait1033
+
+                    portrait1040
+
+                    portrait1050
+                    portrait1051
+                    portrait1052
+
+                    portrait1060
+                    portrait1061
+                    portrait1062
+                    portrait1063
+
+                    portrait1070
+                    portrait1071
+                    portrait1072
+                    portrait1073
+                    portrait1074
+                    portrait1075
+                    portrait1076
+                    portrait1077
+
+                    portrait1080
+                    portrait1081
+
+                    portrait1090
+
+                    portrait1100
+
+                    portrait1110
+
+                    portrait1120
+
+                    portrait1130
+
+                    portrait1140
+
+                    portrait1150
+
+                    portrait1161
+                    portrait1162
+                    portrait1163
+                    portrait1164
+                }
+            }
+        }
+    }
+}

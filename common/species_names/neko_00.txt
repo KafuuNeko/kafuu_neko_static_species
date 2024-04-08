@@ -1,0 +1,70 @@
+# Generated species derive their names from here
+
+Neko = {
+    Neko = {
+        name = "Neko"
+        plural = "Nekos"
+        home_planet = "Nekostar"
+        home_system = "Minatsuki"
+        name_list = "MAM2"
+    }
+    Honey = {
+        name = "Honey"
+        plural = "Honey"
+        home_planet = "Honeystar"
+        home_system = "HoneyHoney"
+        name_list = "MAM2"
+    }
+    Candy = {
+        name = "Candy"
+        plural = "Candies"
+        home_planet = "Candystar"
+        home_system = "Candyball"
+        name_list = "MAM2"
+    }
+    Catus = {
+        name = "Catus"
+        plural = "Catus"
+        home_planet = "Catusstar"
+        home_system = "Catseye"
+        name_list = "MAM2"
+    }
+    Catopuma = {
+        name = "Catopuma"
+        plural = "Catopuma"
+        home_planet = "Puma"
+        home_system = "Catopuma"
+        name_list = "MAM2"
+    }
+    Buchi = {
+        name = "Buchi"
+        plural = "Buchi"
+        home_planet = "Buchistar"
+        home_system = "Buchi"
+        name_list = "MAM2"
+    }
+    Shorthair = {
+        name = "Shorthair"
+        plural = "Shorthairs"
+        home_planet = "Shorthair"
+        home_system = "Tigers"
+        name_list = "MAM2"
+    }
+    Meow = {
+        name = "Meow"
+        plural = "MeowMeow"
+        home_planet = "Meowstar"
+        home_system = "MeowMeow"
+        name_list = "MAM2"
+    }
+}
+
+Nekorobo = {
+    Nekorobo = {
+        name = "Nekorobo"
+        plural = "Nekorobo"
+        home_planet = "Nekostar"
+        home_system = "Minatsuki"
+        name_list = "AI"
+    }
+}
