@@ -1,0 +1,778 @@
+character = {
+    size = { x = 475 y = 380 }
+
+    entity = {
+        orientation = center_down
+        position = { x = 50 y = -20 }
+        scale = 24
+    }
+}
+
+portraits = {
+    portrait1 = {
+        texturefile = "gfx/models/portraits/maid/1.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait10 = {
+        texturefile = "gfx/models/portraits/maid/10.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait11 = {
+        texturefile = "gfx/models/portraits/maid/11.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait12 = {
+        texturefile = "gfx/models/portraits/maid/12.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait13 = {
+        texturefile = "gfx/models/portraits/maid/13.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait14 = {
+        texturefile = "gfx/models/portraits/maid/14.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait15 = {
+        texturefile = "gfx/models/portraits/maid/15.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait16 = {
+        texturefile = "gfx/models/portraits/maid/16.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait17 = {
+        texturefile = "gfx/models/portraits/maid/17.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait18 = {
+        texturefile = "gfx/models/portraits/maid/18.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait19 = {
+        texturefile = "gfx/models/portraits/maid/19.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait2 = {
+        texturefile = "gfx/models/portraits/maid/2.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait20 = {
+        texturefile = "gfx/models/portraits/maid/20.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait21 = {
+        texturefile = "gfx/models/portraits/maid/21.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait22 = {
+        texturefile = "gfx/models/portraits/maid/22.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait23 = {
+        texturefile = "gfx/models/portraits/maid/23.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait24 = {
+        texturefile = "gfx/models/portraits/maid/24.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait25 = {
+        texturefile = "gfx/models/portraits/maid/25.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait26 = {
+        texturefile = "gfx/models/portraits/maid/26.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait27 = {
+        texturefile = "gfx/models/portraits/maid/27.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait28 = {
+        texturefile = "gfx/models/portraits/maid/28.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait29 = {
+        texturefile = "gfx/models/portraits/maid/29.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait3 = {
+        texturefile = "gfx/models/portraits/maid/3.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait30 = {
+        texturefile = "gfx/models/portraits/maid/30.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait31 = {
+        texturefile = "gfx/models/portraits/maid/31.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait32 = {
+        texturefile = "gfx/models/portraits/maid/32.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait33 = {
+        texturefile = "gfx/models/portraits/maid/33.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait34 = {
+        texturefile = "gfx/models/portraits/maid/34.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait35 = {
+        texturefile = "gfx/models/portraits/maid/35.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait36 = {
+        texturefile = "gfx/models/portraits/maid/36.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait37 = {
+        texturefile = "gfx/models/portraits/maid/37.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait38 = {
+        texturefile = "gfx/models/portraits/maid/38.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait39 = {
+        texturefile = "gfx/models/portraits/maid/39.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait4 = {
+        texturefile = "gfx/models/portraits/maid/4.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait40 = {
+        texturefile = "gfx/models/portraits/maid/40.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait41 = {
+        texturefile = "gfx/models/portraits/maid/41.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait42 = {
+        texturefile = "gfx/models/portraits/maid/42.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait43 = {
+        texturefile = "gfx/models/portraits/maid/43.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait44 = {
+        texturefile = "gfx/models/portraits/maid/44.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait45 = {
+        texturefile = "gfx/models/portraits/maid/45.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait46 = {
+        texturefile = "gfx/models/portraits/maid/46.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait47 = {
+        texturefile = "gfx/models/portraits/maid/47.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait48 = {
+        texturefile = "gfx/models/portraits/maid/48.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait49 = {
+        texturefile = "gfx/models/portraits/maid/49.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait5 = {
+        texturefile = "gfx/models/portraits/maid/5.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait50 = {
+        texturefile = "gfx/models/portraits/maid/50.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait51 = {
+        texturefile = "gfx/models/portraits/maid/51.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait52 = {
+        texturefile = "gfx/models/portraits/maid/52.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait53 = {
+        texturefile = "gfx/models/portraits/maid/53.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait54 = {
+        texturefile = "gfx/models/portraits/maid/54.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait55 = {
+        texturefile = "gfx/models/portraits/maid/55.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait56 = {
+        texturefile = "gfx/models/portraits/maid/56.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait57 = {
+        texturefile = "gfx/models/portraits/maid/57.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait58 = {
+        texturefile = "gfx/models/portraits/maid/58.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait59 = {
+        texturefile = "gfx/models/portraits/maid/59.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait6 = {
+        texturefile = "gfx/models/portraits/maid/6.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait60 = {
+        texturefile = "gfx/models/portraits/maid/60.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait61 = {
+        texturefile = "gfx/models/portraits/maid/61.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait62 = {
+        texturefile = "gfx/models/portraits/maid/62.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait63 = {
+        texturefile = "gfx/models/portraits/maid/63.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait64 = {
+        texturefile = "gfx/models/portraits/maid/64.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait65 = {
+        texturefile = "gfx/models/portraits/maid/65.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait7 = {
+        texturefile = "gfx/models/portraits/maid/7.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait8 = {
+        texturefile = "gfx/models/portraits/maid/8.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+    portrait9 = {
+        texturefile = "gfx/models/portraits/maid/9.dds"
+        clothes_selector = "no_texture"
+        hair_selector = "no_texture"
+        greeting_sound = "human_female_greetings_08"
+    }
+}
+
+portrait_groups = {
+    maidrobo = {
+        default = portrait1
+        game_setup = {
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+
+        #species scope
+        species = {
+            #generic portrait for a species
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+
+        #pop scope
+        pop = {
+            #for a specific pop
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+        #leader scope
+        leader = {
+            #scientists, generals, admirals, governor
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+        #leader scope
+        ruler = {
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+    }
+}
+
