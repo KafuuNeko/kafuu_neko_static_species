@@ -1,4 +1,4 @@
-Neko = {
+Loli = {
 
     archetype = BIOLOGICAL
 
@@ -9,6 +9,7 @@ Neko = {
     gender = no
 
     portraits = {
+        "neko"
         "maid"
     }
 
@@ -17,7 +18,7 @@ Neko = {
     move_pop_sound_effect = "moving_pop_confirmation"
 }
 
-Nekorobo = {
+Lolirobo = {
     archetype = MACHINE
 
     playable = { host_has_dlc = "Synthetic Dawn Story Pack" }
@@ -34,6 +35,7 @@ Nekorobo = {
     leader_age_max = 10
 
     portraits = {
+        "nekorobo"
         "maidrobo"
     }
 

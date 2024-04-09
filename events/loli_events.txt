@@ -1,7 +1,7 @@
-namespace = neko
+namespace = loli
 
 country_event = {
-    id = neko.1
+    id = loli.1
     hide_window = yes
     is_triggered_only = yes
 

@@ -1,10 +1,10 @@
 # Generated species derive their names from here
 
-Neko = {
-    Neko = {
-        name = "Neko"
-        plural = "Nekos"
-        home_planet = "Nekostar"
+Loli = {
+    Loli = {
+        name = "Loli"
+        plural = "Lolis"
+        home_planet = "Lolistar"
         home_system = "Minatsuki"
         name_list = "MAM2"
     }
@@ -59,11 +59,11 @@ Neko = {
     }
 }
 
-Nekorobo = {
-    Nekorobo = {
-        name = "Nekorobo"
-        plural = "Nekorobo"
-        home_planet = "Nekostar"
+Lolirobo = {
+    Lolirobo = {
+        name = "Lolirobo"
+        plural = "Lolirobo"
+        home_planet = "Lolistar"
         home_system = "Minatsuki"
         name_list = "AI"
     }
