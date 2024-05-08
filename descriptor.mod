@@ -4,5 +4,5 @@ version="0.0.1"
 tags={
 	"Balance"
 }
-supported_version="3.10.4"
+supported_version="3.12.*"
 remote_file_id="3162716925"

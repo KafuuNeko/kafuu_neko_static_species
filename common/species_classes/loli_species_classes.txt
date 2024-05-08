@@ -1,0 +1,39 @@
+LOLI = {
+
+    archetype = BIOLOGICAL
+
+    randomized = no
+
+    possible = {
+        authority = {
+            NOT = {
+                value = auth_machine_intelligence
+                text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE
+            }
+        }
+    }
+
+    gender = no
+
+    graphical_culture = humanoid_01
+    move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+LOLI_ROBOT = {
+    archetype = ROBOT
+
+    playable = {
+        has_global_flag = game_started
+    }
+    randomized = no
+
+
+    gender = yes
+    use_climate_preference = no
+    portrait_modding = yes
+    leader_age_min = 1
+    leader_age_max = 10
+    graphical_culture = ai_01
+    move_pop_sound_effect = "robot_pops_move"
+    resources = {}
+}

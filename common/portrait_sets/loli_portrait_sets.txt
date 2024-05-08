@@ -1,0 +1,17 @@
+lolis = {
+    species_class = LOLI
+
+    portraits = {
+        "neko"
+        "maid"
+    }
+}
+
+lolis_robot = {
+    species_class = LOLI_ROBOT
+
+    portraits = {
+        "neko"
+        "maid"
+    }
+}

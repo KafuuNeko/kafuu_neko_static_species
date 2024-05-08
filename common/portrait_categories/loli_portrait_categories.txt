@@ -1,0 +1,15 @@
+lolis = {
+    name = LOLI
+
+    sets = {
+        lolis
+    }
+}
+
+lolis_robot = {
+    name = LOLI_ROBOT
+
+    sets = {
+        lolis_robot
+    }
+}
