@@ -13,6 +13,9 @@ LOLI = {
         }
     }
 
+    leader_age_min = 1
+    leader_age_max = 10
+
     gender = no
 
     graphical_culture = humanoid_01
@@ -20,19 +23,18 @@ LOLI = {
 }
 
 LOLI_ROBOT = {
-    archetype = ROBOT
+    archetype = MACHINE
 
-    playable = {
-        has_global_flag = game_started
-    }
     randomized = no
 
+    gender = no
 
-    gender = yes
     use_climate_preference = no
     portrait_modding = yes
+
     leader_age_min = 1
     leader_age_max = 10
+
     graphical_culture = ai_01
     move_pop_sound_effect = "robot_pops_move"
     resources = {}
