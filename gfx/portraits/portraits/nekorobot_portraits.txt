@@ -75,6 +75,16 @@ portraits = {
 
     portrait1200 = { texturefile = "gfx/models/portraits/neko/1200.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
 
+    portrait1210 = { texturefile = "gfx/models/portraits/neko/1210.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1220 = { texturefile = "gfx/models/portraits/neko/1220.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1230 = { texturefile = "gfx/models/portraits/neko/1230.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1240 = { texturefile = "gfx/models/portraits/neko/1240.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
+    portrait1250 = { texturefile = "gfx/models/portraits/neko/1250.dds" clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "human_female_greetings_08" }
+
 }
 
 portrait_groups = {
@@ -147,6 +157,17 @@ portrait_groups = {
                     portrait1190
 
                     portrait1200
+
+                    portrait1210
+
+                    portrait1220
+
+                    portrait1230
+
+                    portrait1240
+
+                    portrait1250
+
                 }
             }
 
@@ -221,6 +242,17 @@ portrait_groups = {
                     portrait1190
 
                     portrait1200
+
+                    portrait1210
+
+                    portrait1220
+
+                    portrait1230
+
+                    portrait1240
+
+                    portrait1250
+
                 }
             }
 
@@ -294,6 +326,17 @@ portrait_groups = {
                     portrait1190
 
                     portrait1200
+
+                    portrait1210
+
+                    portrait1220
+
+                    portrait1230
+
+                    portrait1240
+
+                    portrait1250
+
                 }
             }
 
@@ -367,6 +410,17 @@ portrait_groups = {
                     portrait1190
 
                     portrait1200
+
+                    portrait1210
+
+                    portrait1220
+
+                    portrait1230
+
+                    portrait1240
+
+                    portrait1250
+
                 }
             }
 
@@ -439,6 +493,17 @@ portrait_groups = {
                     portrait1190
 
                     portrait1200
+
+                    portrait1210
+
+                    portrait1220
+
+                    portrait1230
+
+                    portrait1240
+
+                    portrait1250
+
                 }
             }
         }
