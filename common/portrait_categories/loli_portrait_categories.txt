@@ -1,5 +1,5 @@
 lolis = {
-    name = LOLI
+    name = NAME_LOLI
 
     sets = {
         lolis
@@ -7,7 +7,7 @@ lolis = {
 }
 
 lolis_robot = {
-    name = LOLI_ROBOT
+    name = NAME_LOLI_ROBOT
 
     sets = {
         lolis_robot

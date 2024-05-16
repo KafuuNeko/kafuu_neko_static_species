@@ -1,4 +1,7 @@
 ﻿l_simp_chinese:
+ NAME_LOLI: "Loli肖像"
+ NAME_LOLI_ROBOT: "Loli机械肖像"
+
 name_list_KAFUUNAME:0 "Kafuu的预设中文名"
 # Sequential name formats
  KAFUU_NAME_SHIP_ORD:0 "星海$ORD$舰队"
